@@ -12,3 +12,4 @@ npm i -D @babel/preset-env
 ```
 { "presets": ["@babel/preset-env"] }
 ```
+This will allow you to use import statements. Note that in the Jest docs similar instructions are laid out [here](https://jestjs.io/docs/getting-started#using-babel)
