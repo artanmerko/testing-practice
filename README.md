@@ -1,2 +1,1 @@
-# testing-practice
-JavaScript PROJECT: Testing-Practice
+# JavaScript PROJECT: Testing-Practice
